@@ -39,7 +39,7 @@ Experience seamless scraping with Bright Data's [Australia proxies](https://brig
 
 **[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
   
-- **70,400 Inida mobile proxy IPs**
+- **70,400 Australia mobile proxy IPs**
 - **3G/4G/5G mobile IPs**
 - **24/7 global support**
 
